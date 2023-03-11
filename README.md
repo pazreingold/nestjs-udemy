@@ -3,4 +3,4 @@ This project make use of
 * TypeScript
 * NestJS
 
-Course by [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/)
+The course [NestJS: The Complete Developer's Guide](https://www.udemy.com/course/nestjs-the-complete-developers-guide/) by Stephen Grider
