@@ -1,4 +1,4 @@
-# nestjs-udemy - By Paz Reingold :dog:
+# NestJS Udemy - By Paz Reingold :dog:
 This project make use of
 * TypeScript
 * NestJS
